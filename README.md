@@ -4,7 +4,7 @@ Onomatopeia_plutja
 ## 23/24
 [Alba Jover](https://github.com/albajota/onomatopeyas_pde)
 
-[Inés Beneyto](https://github.com/beneytoines/p1_beneytoines_onomatopeia) - falta gif
+[Inés Beneyto](https://github.com/beneytoines/p1_beneytoines_onomatopeia) 
 
 [Ana Merino](https://github.com/AnaMerinoCampos/01_onomatopeya)
 
