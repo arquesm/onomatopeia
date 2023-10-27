@@ -18,7 +18,7 @@ Onomatopeia_plutja
 
 [Alejandro Orta](https://github.com/AlejandroOrtaJuan/Onomatopeya)
 
-[Maria Deltell] [1](https://github.com/MARIAEASD/onomatopeya_boom1) [2](https://github.com/MARIAEASD/onomatopeya_boom2) [3](https://github.com/MARIAEASD/onomatopeya_boom3)
+Maria Deltell [1](https://github.com/MARIAEASD/onomatopeya_boom1) [2](https://github.com/MARIAEASD/onomatopeya_boom2) [3](https://github.com/MARIAEASD/onomatopeya_boom3)
 
 [Maria Lluna Devesa](https://github.com/marialluna/onomatopeia_mlluna)
 
