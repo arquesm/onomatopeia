@@ -13,3 +13,5 @@ Onomatopeia_plutja
 [Teresa Carrillo](https://github.com/Teresa7863/Type_writting_processing)
 
 [Eduardo Reina](https://github.com/ReinaEdu/type_writter_processing)
+
+[Marta Serralta](https://github.com/martaserralta/onomatopeia)
