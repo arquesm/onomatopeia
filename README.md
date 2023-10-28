@@ -32,4 +32,5 @@ Maria Deltell [1](https://github.com/MARIAEASD/onomatopeya_boom1) [2](https://gi
 
 [Irene Cantó](https://github.com/ireneC77/Onomatopeya.git)
 
+[Leia Granero](https://github.com/LeiaGranero/Onomatopeia_abeja)
 
