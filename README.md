@@ -37,3 +37,5 @@ Maria Deltell [1](https://github.com/MARIAEASD/onomatopeya_boom1) [2](https://gi
 [Mariano Pina](https://github.com/pinaam/onomatopeya)
 
 [Pau Santamaria](https://github.com/Pau-so/p1_onomatopiea_pau_santamaria.git)
+
+[Lourdes Martínez](https://github.com/Lourdesmarss/onomatopeya_lourdes_martinez)
